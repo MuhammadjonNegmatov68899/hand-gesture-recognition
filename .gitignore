@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pretrained model artifacts
+models/*.task
+*.task
+
+# Local datasets
+/data/
+/dataset/
+*.npz
+
+# Generated model files
+*.joblib
+*.pkl
+models/*.joblib
+models/*.pkl
+
+# Experiment results and evaluations
+/results/
+
+
