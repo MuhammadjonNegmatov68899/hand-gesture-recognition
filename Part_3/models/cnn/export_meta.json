@@ -1,0 +1,9 @@
+{
+  "img_size": 224,
+  "calibration_samples": 200,
+  "size_kb": {
+    "fp32": 8706.54,
+    "fp16": 4418.48,
+    "int8": 2677.55
+  }
+}
